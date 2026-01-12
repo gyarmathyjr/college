@@ -1,0 +1,723 @@
+{
+  "student": {
+    "name": "Kai S. Gyarmathy",
+    "school_id": "Kai - PPR 3"
+  },
+  "academic_summary": [],
+  "course_history": [
+    {
+      "requirement_area": "English",
+      "school_year": 2024,
+      "school": "SHOREWOOD HIGH SCHOOL",
+      "course_name": "ENGLISH 9 HONORS",
+      "teacher": "PottingerA",
+      "status": "Complete",
+      "credits": 0.5,
+      "grades": {
+        "Q1": "A-",
+        "Q2": "A",
+        "S1": "A",
+        "Q3": null,
+        "Q4": null,
+        "S2": null
+      }
+    },
+    {
+      "requirement_area": "English",
+      "school_year": 2024,
+      "school": "SHOREWOOD HIGH SCHOOL",
+      "course_name": "ENGLISH 9 HONORS",
+      "teacher": "PottingerA",
+      "status": "Complete",
+      "credits": 0.5,
+      "grades": {
+        "Q1": null,
+        "Q2": null,
+        "S1": null,
+        "Q3": "A-",
+        "Q4": "A-",
+        "S2": "A-"
+      }
+    },
+    {
+      "requirement_area": "English",
+      "school_year": 2025,
+      "school": "SHOREWOOD HIGH SCHOOL",
+      "course_name": "HONORS ENGLISH 10",
+      "teacher": "Murray T",
+      "status": "Complete",
+      "credits": 0.5,
+      "grades": {
+        "Q1": "A",
+        "Q2": "A",
+        "S1": "A",
+        "Q3": null,
+        "Q4": null,
+        "S2": null
+      }
+    },
+    {
+      "requirement_area": "English",
+      "school_year": 2025,
+      "school": "SHOREWOOD HIGH SCHOOL",
+      "course_name": "HONORS ENGLISH 10",
+      "teacher": "Murray T",
+      "status": "Complete",
+      "credits": 0.5,
+      "grades": {
+        "Q1": null,
+        "Q2": null,
+        "S1": null,
+        "Q3": "A",
+        "Q4": "A-",
+        "S2": "A-"
+      }
+    },
+    {
+      "requirement_area": "English",
+      "school_year": 2026,
+      "school": "SHOREWOOD HIGH SCHOOL",
+      "course_name": "ENGLISH 11",
+      "teacher": "Knox D",
+      "status": "In Progress",
+      "credits": 0.5,
+      "grades": {
+        "Q1": "B+",
+        "Q2": null,
+        "S1": null,
+        "Q3": null,
+        "Q4": null,
+        "S2": null
+      }
+    },
+    {
+      "requirement_area": "English",
+      "school_year": 2026,
+      "school": "SHOREWOOD HIGH SCHOOL",
+      "course_name": "ENGLISH 11",
+      "teacher": "Knox D",
+      "status": "In Progress",
+      "credits": 0.5,
+      "grades": {
+        "Q1": null,
+        "Q2": null,
+        "S1": null,
+        "Q3": null,
+        "Q4": null,
+        "S2": null
+      }
+    },
+    {
+      "requirement_area": "Social Studies",
+      "school_year": 2024,
+      "school": "SHOREWOOD HIGH SCHOOL",
+      "course_name": "WORLD HIST I",
+      "teacher": "Wieburg T",
+      "status": "Complete",
+      "credits": 0.5,
+      "grades": {
+        "Q1": null,
+        "Q2": null,
+        "S1": null,
+        "Q3": "B+",
+        "Q4": "B",
+        "S2": "B"
+      }
+    },
+    {
+      "requirement_area": "Social Studies",
+      "school_year": 2025,
+      "school": "SHOREWOOD HIGH SCHOOL",
+      "course_name": "AP WORLD HISTORY",
+      "teacher": "Fletcher J",
+      "status": "Complete",
+      "credits": 0.5,
+      "grades": {
+        "Q1": "B+",
+        "Q2": "A",
+        "S1": "A",
+        "Q3": null,
+        "Q4": null,
+        "S2": null
+      }
+    },
+    {
+      "requirement_area": "Social Studies",
+      "school_year": 2025,
+      "school": "SHOREWOOD HIGH SCHOOL",
+      "course_name": "AP WORLD HISTORY",
+      "teacher": "Fletcher J",
+      "status": "Complete",
+      "credits": 0.5,
+      "grades": {
+        "Q1": null,
+        "Q2": null,
+        "S1": null,
+        "Q3": "B+",
+        "Q4": "A-",
+        "S2": "A-"
+      }
+    },
+    {
+      "requirement_area": "US History",
+      "school_year": 2026,
+      "school": "SHOREWOOD HIGH SCHOOL",
+      "course_name": "AP US HISTORY",
+      "teacher": "McFarlaneS",
+      "status": "In Progress",
+      "credits": 0.5,
+      "grades": {
+        "Q1": "C+",
+        "Q2": null,
+        "S1": null,
+        "Q3": null,
+        "Q4": null,
+        "S2": null
+      }
+    },
+    {
+      "requirement_area": "US History",
+      "school_year": 2026,
+      "school": "SHOREWOOD HIGH SCHOOL",
+      "course_name": "AP US HISTORY",
+      "teacher": "McFarlaneS",
+      "status": "In Progress",
+      "credits": 0.5,
+      "grades": {
+        "Q1": null,
+        "Q2": null,
+        "S1": null,
+        "Q3": null,
+        "Q4": null,
+        "S2": null
+      }
+    },
+    {
+      "requirement_area": "Lab Science",
+      "school_year": 2024,
+      "school": "SHOREWOOD HIGH SCHOOL",
+      "course_name": "BIOLOGY",
+      "teacher": "Mann C",
+      "status": "Complete",
+      "credits": 0.5,
+      "grades": {
+        "Q1": "B",
+        "Q2": "B+",
+        "S1": "B+",
+        "Q3": null,
+        "Q4": null,
+        "S2": null
+      }
+    },
+    {
+      "requirement_area": "Lab Science",
+      "school_year": 2024,
+      "school": "SHOREWOOD HIGH SCHOOL",
+      "course_name": "BIOLOGY",
+      "teacher": "Mann C",
+      "status": "Complete",
+      "credits": 0.5,
+      "grades": {
+        "Q1": null,
+        "Q2": null,
+        "S1": null,
+        "Q3": "C+",
+        "Q4": "B+",
+        "S2": "B+"
+      }
+    },
+    {
+      "requirement_area": "Lab Science",
+      "school_year": 2025,
+      "school": "SHOREWOOD HIGH SCHOOL",
+      "course_name": "CHEMISTRY",
+      "teacher": "MartinezB",
+      "status": "Complete",
+      "credits": 0.5,
+      "grades": {
+        "Q1": "A-",
+        "Q2": "B+",
+        "S1": "B+",
+        "Q3": null,
+        "Q4": null,
+        "S2": null
+      }
+    },
+    {
+      "requirement_area": "Lab Science",
+      "school_year": 2025,
+      "school": "SHOREWOOD HIGH SCHOOL",
+      "course_name": "CHEMISTRY",
+      "teacher": "Kotwis J",
+      "status": "Complete",
+      "credits": 0.5,
+      "grades": {
+        "Q1": null,
+        "Q2": null,
+        "S1": null,
+        "Q3": "B",
+        "Q4": "B-",
+        "S2": "B-"
+      }
+    },
+    {
+      "requirement_area": "Lab Science",
+      "school_year": 2026,
+      "school": "SHOREWOOD HIGH SCHOOL",
+      "course_name": "AP PHYSICS I",
+      "teacher": "Kotwis J",
+      "status": "In Progress",
+      "credits": 0.5,
+      "grades": {
+        "Q1": "B-",
+        "Q2": null,
+        "S1": null,
+        "Q3": null,
+        "Q4": null,
+        "S2": null
+      }
+    },
+    {
+      "requirement_area": "Lab Science",
+      "school_year": 2026,
+      "school": "SHOREWOOD HIGH SCHOOL",
+      "course_name": "AP PHYSICS I",
+      "teacher": "Kotwis J",
+      "status": "In Progress",
+      "credits": 0.5,
+      "grades": {
+        "Q1": null,
+        "Q2": null,
+        "S1": null,
+        "Q3": null,
+        "Q4": null,
+        "S2": null
+      }
+    },
+    {
+      "requirement_area": "Math 1",
+      "school_year": 2022,
+      "school": "EINSTEIN MIDDLE SCHOOL",
+      "course_name": "ALGEBRA 1+",
+      "teacher": "Holsten A",
+      "status": "Complete",
+      "credits": 0.5,
+      "grades": {
+        "Q1": "A-",
+        "Q2": "A-",
+        "S1": "A-",
+        "Q3": null,
+        "Q4": null,
+        "S2": null
+      }
+    },
+    {
+      "requirement_area": "Math 1",
+      "school_year": 2022,
+      "school": "EINSTEIN MIDDLE SCHOOL",
+      "course_name": "ALGEBRA 1+",
+      "teacher": "Holsten A",
+      "status": "Complete",
+      "credits": 0.5,
+      "grades": {
+        "Q1": null,
+        "Q2": null,
+        "S1": null,
+        "Q3": "A",
+        "Q4": "A-",
+        "S2": "A-"
+      }
+    },
+    {
+      "requirement_area": "Math 2",
+      "school_year": 2023,
+      "school": "EINSTEIN MIDDLE SCHOOL",
+      "course_name": "GEOMETRY S1",
+      "teacher": "Crowley D",
+      "status": "Complete",
+      "credits": 0.5,
+      "grades": {
+        "Q1": "B-",
+        "Q2": "B",
+        "S1": "B",
+        "Q3": null,
+        "Q4": null,
+        "S2": null
+      }
+    },
+    {
+      "requirement_area": "Math 2",
+      "school_year": 2023,
+      "school": "EINSTEIN MIDDLE SCHOOL",
+      "course_name": "GEOMETRY S2",
+      "teacher": "Crowley D",
+      "status": "Complete",
+      "credits": 0.5,
+      "grades": {
+        "Q1": null,
+        "Q2": null,
+        "S1": null,
+        "Q3": "B",
+        "Q4": "B+",
+        "S2": "B+"
+      }
+    },
+    {
+      "requirement_area": "Math 3",
+      "school_year": 2024,
+      "school": "SHOREWOOD HIGH SCHOOL",
+      "course_name": "ALGEBRA II",
+      "teacher": "Lee N",
+      "status": "Complete",
+      "credits": 0.5,
+      "grades": {
+        "Q1": "A",
+        "Q2": "A",
+        "S1": "A",
+        "Q3": null,
+        "Q4": null,
+        "S2": null
+      }
+    },
+    {
+      "requirement_area": "Math 3",
+      "school_year": 2024,
+      "school": "SHOREWOOD HIGH SCHOOL",
+      "course_name": "ALGEBRA II",
+      "teacher": "Lee N",
+      "status": "Complete",
+      "credits": 0.5,
+      "grades": {
+        "Q1": null,
+        "Q2": null,
+        "S1": null,
+        "Q3": "B+",
+        "Q4": "A-",
+        "S2": "A-"
+      }
+    },
+    {
+      "requirement_area": "Fine Arts",
+      "school_year": 2026,
+      "school": "SHOREWOOD HIGH SCHOOL",
+      "course_name": "DIGITAL PHOTOGRAPHY I",
+      "teacher": "Ballew M",
+      "status": "In Progress",
+      "credits": 0.5,
+      "grades": {
+        "Q1": null,
+        "Q2": null,
+        "S1": null,
+        "Q3": null,
+        "Q4": null,
+        "S2": null
+      }
+    },
+    {
+      "requirement_area": "Occupational Education",
+      "school_year": 2024,
+      "school": "SHOREWOOD HIGH SCHOOL",
+      "course_name": "Intro to Computer Science",
+      "teacher": "Fleischman",
+      "status": "Complete",
+      "credits": 0.5,
+      "grades": {
+        "Q1": null,
+        "Q2": null,
+        "S1": null,
+        "Q3": "A-",
+        "Q4": "B+",
+        "S2": "B+"
+      }
+    },
+    {
+      "requirement_area": "Occupational Education",
+      "school_year": 2025,
+      "school": "SHOREWOOD HIGH SCHOOL",
+      "course_name": "AP COMPUTER SCIENCE",
+      "teacher": "Fleischman",
+      "status": "Complete",
+      "credits": 0.5,
+      "grades": {
+        "Q1": "B",
+        "Q2": "B",
+        "S1": "B",
+        "Q3": null,
+        "Q4": null,
+        "S2": null
+      }
+    },
+    {
+      "requirement_area": "Health",
+      "school_year": 2024,
+      "school": "SHOREWOOD HIGH SCHOOL",
+      "course_name": "HEALTH FOR LIFE",
+      "teacher": "Ely A",
+      "status": "Complete",
+      "credits": 0.5,
+      "grades": {
+        "Q1": "C-",
+        "Q2": "A",
+        "S1": "A",
+        "Q3": null,
+        "Q4": null,
+        "S2": null
+      }
+    },
+    {
+      "requirement_area": "Physical Education",
+      "school_year": 2024,
+      "school": "SHOREWOOD HIGH SCHOOL",
+      "course_name": "TEAM SPORTS & FITNESS",
+      "teacher": "Fukuma J",
+      "status": "Complete",
+      "credits": 0.5,
+      "grades": {
+        "Q1": "A",
+        "Q2": "A",
+        "S1": "A",
+        "Q3": null,
+        "Q4": null,
+        "S2": null
+      }
+    },
+    {
+      "requirement_area": "Physical Education",
+      "school_year": 2026,
+      "school": "SHOREWOOD HIGH SCHOOL",
+      "course_name": "PE STRENGTH & FITNESS TRAINING",
+      "teacher": "Torrey B",
+      "status": "In Progress",
+      "credits": 0.5,
+      "grades": {
+        "Q1": "B",
+        "Q2": null,
+        "S1": null,
+        "Q3": null,
+        "Q4": null,
+        "S2": null
+      }
+    },
+    {
+      "requirement_area": "World Languages",
+      "school_year": 2023,
+      "school": "EINSTEIN MIDDLE SCHOOL",
+      "course_name": "JAPANESE 1 S1",
+      "teacher": "Ayabe T",
+      "status": "Complete",
+      "credits": 0.5,
+      "grades": {
+        "Q1": "A",
+        "Q2": "A",
+        "S1": "A",
+        "Q3": null,
+        "Q4": null,
+        "S2": null
+      }
+    },
+    {
+      "requirement_area": "World Languages",
+      "school_year": 2023,
+      "school": "EINSTEIN MIDDLE SCHOOL",
+      "course_name": "JAPANESE 1 S2",
+      "teacher": "Ayabe T",
+      "status": "Complete",
+      "credits": 0.5,
+      "grades": {
+        "Q1": null,
+        "Q2": null,
+        "S1": null,
+        "Q3": "A",
+        "Q4": "A",
+        "S2": "A"
+      }
+    },
+    {
+      "requirement_area": "World Languages",
+      "school_year": 2024,
+      "school": "SHOREWOOD HIGH SCHOOL",
+      "course_name": "JAPANESE II",
+      "teacher": "Thompson K",
+      "status": "Complete",
+      "credits": 0.5,
+      "grades": {
+        "Q1": "A",
+        "Q2": "A",
+        "S1": "A",
+        "Q3": null,
+        "Q4": null,
+        "S2": null
+      }
+    },
+    {
+      "requirement_area": "World Languages",
+      "school_year": 2024,
+      "school": "SHOREWOOD HIGH SCHOOL",
+      "course_name": "JAPANESE II",
+      "teacher": "Thompson K",
+      "status": "Complete",
+      "credits": 0.5,
+      "grades": {
+        "Q1": null,
+        "Q2": null,
+        "S1": null,
+        "Q3": "A-",
+        "Q4": "B",
+        "S2": "B+"
+      }
+    },
+    {
+      "requirement_area": "General Electives",
+      "school_year": 2025,
+      "school": "SHOREWOOD HIGH SCHOOL",
+      "course_name": "AP COMPUTER SCIENCE",
+      "teacher": "Fleischman",
+      "status": "Complete",
+      "credits": 0.5,
+      "grades": {
+        "Q1": null,
+        "Q2": null,
+        "S1": null,
+        "Q3": "C",
+        "Q4": "B-",
+        "S2": "B-"
+      }
+    },
+    {
+      "requirement_area": "General Electives",
+      "school_year": 2025,
+      "school": "SHOREWOOD HIGH SCHOOL",
+      "course_name": "JAPANESE 113",
+      "teacher": "Thompson K",
+      "status": "Complete",
+      "credits": 0.5,
+      "grades": {
+        "Q1": "B",
+        "Q2": "B+",
+        "S1": "B+",
+        "Q3": null,
+        "Q4": null,
+        "S2": null
+      }
+    },
+    {
+      "requirement_area": "General Electives",
+      "school_year": 2025,
+      "school": "SHOREWOOD HIGH SCHOOL",
+      "course_name": "JAPANESE 113",
+      "teacher": "Thompson K",
+      "status": "Complete",
+      "credits": 0.5,
+      "grades": {
+        "Q1": null,
+        "Q2": null,
+        "S1": null,
+        "Q3": "B-",
+        "Q4": "B+",
+        "S2": "B+"
+      }
+    },
+    {
+      "requirement_area": "General Electives",
+      "school_year": 2025,
+      "school": "SHOREWOOD HIGH SCHOOL",
+      "course_name": "UW PRE CALCULUS",
+      "teacher": "Marapao M",
+      "status": "Complete",
+      "credits": 0.5,
+      "grades": {
+        "Q1": "B+",
+        "Q2": "B",
+        "S1": "B",
+        "Q3": null,
+        "Q4": null,
+        "S2": null
+      }
+    },
+    {
+      "requirement_area": "General Electives",
+      "school_year": 2025,
+      "school": "SHOREWOOD HIGH SCHOOL",
+      "course_name": "UW PRE CALCULUS",
+      "teacher": "Marapao M",
+      "status": "Complete",
+      "credits": 0.5,
+      "grades": {
+        "Q1": null,
+        "Q2": null,
+        "S1": null,
+        "Q3": "B-",
+        "Q4": "B+",
+        "S2": "B+"
+      }
+    },
+    {
+      "requirement_area": "General Electives",
+      "school_year": 2026,
+      "school": "SHOREWOOD HIGH SCHOOL",
+      "course_name": "AP CALCULUS AB",
+      "teacher": "Nouwens A",
+      "status": "In Progress",
+      "credits": 0.5,
+      "grades": {
+        "Q1": "B-",
+        "Q2": null,
+        "S1": null,
+        "Q3": null,
+        "Q4": null,
+        "S2": null
+      }
+    },
+    {
+      "requirement_area": "General Electives",
+      "school_year": 2026,
+      "school": "SHOREWOOD HIGH SCHOOL",
+      "course_name": "AP CALCULUS AB",
+      "teacher": "Nouwens A",
+      "status": "In Progress",
+      "credits": 0.5,
+      "grades": {
+        "Q1": null,
+        "Q2": null,
+        "S1": null,
+        "Q3": null,
+        "Q4": null,
+        "S2": null
+      }
+    },
+    {
+      "requirement_area": "General Electives",
+      "school_year": 2026,
+      "school": "SHOREWOOD HIGH SCHOOL",
+      "course_name": "AP PSYCHOLOGY CTE",
+      "teacher": "Messner T",
+      "status": "In Progress",
+      "credits": 0.5,
+      "grades": {
+        "Q1": "B",
+        "Q2": null,
+        "S1": null,
+        "Q3": null,
+        "Q4": null,
+        "S2": null
+      }
+    },
+    {
+      "requirement_area": "General Electives",
+      "school_year": 2026,
+      "school": "SHOREWOOD HIGH SCHOOL",
+      "course_name": "AP PSYCHOLOGY CTE",
+      "teacher": "Messner T",
+      "status": "In Progress",
+      "credits": 0.5,
+      "grades": {
+        "Q1": null,
+        "Q2": null,
+        "S1": null,
+        "Q3": null,
+        "Q4": null,
+        "S2": null
+      }
+    }
+  ]
+}

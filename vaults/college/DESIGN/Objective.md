@@ -1,6 +1,6 @@
 
 - Develop a system to evaluate my son's high-school grades and compare against college acceptance criteria.  
-	- Need to track and update (as they change) high-school letter grades (e.g., a, a-)
+	- Need to track and update (as they change) high-school letter grades (e.g., a, a-).  Grades will need to be manually added. 
 	- Compute a GPA using standard and specific college criteria
 	- Compute WHAT IF scenarios to evaluate the next several semesters of high-school and GPA.  This will be used to make decisions on classes and focus.
 - Download college acceptance criteria from authoritative locations.
