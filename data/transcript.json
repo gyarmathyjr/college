@@ -20,7 +20,8 @@
         "Q3": null,
         "Q4": null,
         "S2": null
-      }
+      },
+      "semester": 1
     },
     {
       "requirement_area": "English",
@@ -37,7 +38,8 @@
         "Q3": "A-",
         "Q4": "A-",
         "S2": "A-"
-      }
+      },
+      "semester": 2
     },
     {
       "requirement_area": "English",
@@ -54,7 +56,8 @@
         "Q3": null,
         "Q4": null,
         "S2": null
-      }
+      },
+      "semester": 1
     },
     {
       "requirement_area": "English",
@@ -71,7 +74,8 @@
         "Q3": "A",
         "Q4": "A-",
         "S2": "A-"
-      }
+      },
+      "semester": 2
     },
     {
       "requirement_area": "English",
@@ -88,7 +92,8 @@
         "Q3": null,
         "Q4": null,
         "S2": null
-      }
+      },
+      "semester": 1
     },
     {
       "requirement_area": "English",
@@ -105,7 +110,8 @@
         "Q3": null,
         "Q4": null,
         "S2": null
-      }
+      },
+      "semester": 2
     },
     {
       "requirement_area": "Social Studies",
@@ -122,7 +128,8 @@
         "Q3": "B+",
         "Q4": "B",
         "S2": "B"
-      }
+      },
+      "semester": 2
     },
     {
       "requirement_area": "Social Studies",
@@ -139,7 +146,8 @@
         "Q3": null,
         "Q4": null,
         "S2": null
-      }
+      },
+      "semester": 1
     },
     {
       "requirement_area": "Social Studies",
@@ -156,7 +164,8 @@
         "Q3": "B+",
         "Q4": "A-",
         "S2": "A-"
-      }
+      },
+      "semester": 2
     },
     {
       "requirement_area": "US History",
@@ -173,7 +182,8 @@
         "Q3": null,
         "Q4": null,
         "S2": null
-      }
+      },
+      "semester": 1
     },
     {
       "requirement_area": "US History",
@@ -190,7 +200,8 @@
         "Q3": null,
         "Q4": null,
         "S2": null
-      }
+      },
+      "semester": 2
     },
     {
       "requirement_area": "Lab Science",
@@ -207,7 +218,8 @@
         "Q3": null,
         "Q4": null,
         "S2": null
-      }
+      },
+      "semester": 1
     },
     {
       "requirement_area": "Lab Science",
@@ -224,7 +236,8 @@
         "Q3": "C+",
         "Q4": "B+",
         "S2": "B+"
-      }
+      },
+      "semester": 2
     },
     {
       "requirement_area": "Lab Science",
@@ -241,7 +254,8 @@
         "Q3": null,
         "Q4": null,
         "S2": null
-      }
+      },
+      "semester": 1
     },
     {
       "requirement_area": "Lab Science",
@@ -258,7 +272,8 @@
         "Q3": "B",
         "Q4": "B-",
         "S2": "B-"
-      }
+      },
+      "semester": 2
     },
     {
       "requirement_area": "Lab Science",
@@ -275,7 +290,8 @@
         "Q3": null,
         "Q4": null,
         "S2": null
-      }
+      },
+      "semester": 1
     },
     {
       "requirement_area": "Lab Science",
@@ -292,7 +308,8 @@
         "Q3": null,
         "Q4": null,
         "S2": null
-      }
+      },
+      "semester": 2
     },
     {
       "requirement_area": "Math 1",
@@ -309,7 +326,8 @@
         "Q3": null,
         "Q4": null,
         "S2": null
-      }
+      },
+      "semester": 1
     },
     {
       "requirement_area": "Math 1",
@@ -326,7 +344,8 @@
         "Q3": "A",
         "Q4": "A-",
         "S2": "A-"
-      }
+      },
+      "semester": 2
     },
     {
       "requirement_area": "Math 2",
@@ -343,7 +362,8 @@
         "Q3": null,
         "Q4": null,
         "S2": null
-      }
+      },
+      "semester": 1
     },
     {
       "requirement_area": "Math 2",
@@ -360,7 +380,8 @@
         "Q3": "B",
         "Q4": "B+",
         "S2": "B+"
-      }
+      },
+      "semester": 2
     },
     {
       "requirement_area": "Math 3",
@@ -377,7 +398,8 @@
         "Q3": null,
         "Q4": null,
         "S2": null
-      }
+      },
+      "semester": 1
     },
     {
       "requirement_area": "Math 3",
@@ -394,7 +416,8 @@
         "Q3": "B+",
         "Q4": "A-",
         "S2": "A-"
-      }
+      },
+      "semester": 2
     },
     {
       "requirement_area": "Fine Arts",
@@ -411,7 +434,8 @@
         "Q3": null,
         "Q4": null,
         "S2": null
-      }
+      },
+      "semester": 2
     },
     {
       "requirement_area": "Occupational Education",
@@ -428,7 +452,8 @@
         "Q3": "A-",
         "Q4": "B+",
         "S2": "B+"
-      }
+      },
+      "semester": 2
     },
     {
       "requirement_area": "Occupational Education",
@@ -445,7 +470,8 @@
         "Q3": null,
         "Q4": null,
         "S2": null
-      }
+      },
+      "semester": 1
     },
     {
       "requirement_area": "Health",
@@ -462,7 +488,8 @@
         "Q3": null,
         "Q4": null,
         "S2": null
-      }
+      },
+      "semester": 1
     },
     {
       "requirement_area": "Physical Education",
@@ -479,7 +506,8 @@
         "Q3": null,
         "Q4": null,
         "S2": null
-      }
+      },
+      "semester": 1
     },
     {
       "requirement_area": "Physical Education",
@@ -496,7 +524,8 @@
         "Q3": null,
         "Q4": null,
         "S2": null
-      }
+      },
+      "semester": 1
     },
     {
       "requirement_area": "World Languages",
@@ -513,7 +542,8 @@
         "Q3": null,
         "Q4": null,
         "S2": null
-      }
+      },
+      "semester": 1
     },
     {
       "requirement_area": "World Languages",
@@ -530,7 +560,8 @@
         "Q3": "A",
         "Q4": "A",
         "S2": "A"
-      }
+      },
+      "semester": 2
     },
     {
       "requirement_area": "World Languages",
@@ -547,7 +578,8 @@
         "Q3": null,
         "Q4": null,
         "S2": null
-      }
+      },
+      "semester": 1
     },
     {
       "requirement_area": "World Languages",
@@ -564,7 +596,8 @@
         "Q3": "A-",
         "Q4": "B",
         "S2": "B+"
-      }
+      },
+      "semester": 2
     },
     {
       "requirement_area": "General Electives",
@@ -581,7 +614,8 @@
         "Q3": "C",
         "Q4": "B-",
         "S2": "B-"
-      }
+      },
+      "semester": 2
     },
     {
       "requirement_area": "General Electives",
@@ -598,7 +632,8 @@
         "Q3": null,
         "Q4": null,
         "S2": null
-      }
+      },
+      "semester": 1
     },
     {
       "requirement_area": "General Electives",
@@ -615,7 +650,8 @@
         "Q3": "B-",
         "Q4": "B+",
         "S2": "B+"
-      }
+      },
+      "semester": 2
     },
     {
       "requirement_area": "General Electives",
@@ -632,7 +668,8 @@
         "Q3": null,
         "Q4": null,
         "S2": null
-      }
+      },
+      "semester": 1
     },
     {
       "requirement_area": "General Electives",
@@ -649,7 +686,8 @@
         "Q3": "B-",
         "Q4": "B+",
         "S2": "B+"
-      }
+      },
+      "semester": 2
     },
     {
       "requirement_area": "General Electives",
@@ -666,7 +704,8 @@
         "Q3": null,
         "Q4": null,
         "S2": null
-      }
+      },
+      "semester": 1
     },
     {
       "requirement_area": "General Electives",
@@ -683,7 +722,8 @@
         "Q3": null,
         "Q4": null,
         "S2": null
-      }
+      },
+      "semester": 2
     },
     {
       "requirement_area": "General Electives",
@@ -700,7 +740,8 @@
         "Q3": null,
         "Q4": null,
         "S2": null
-      }
+      },
+      "semester": 1
     },
     {
       "requirement_area": "General Electives",
@@ -717,7 +758,8 @@
         "Q3": null,
         "Q4": null,
         "S2": null
-      }
+      },
+      "semester": 2
     }
   ]
 }
