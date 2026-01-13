@@ -87,8 +87,8 @@
       "credits": 0.5,
       "grades": {
         "Q1": "B+",
-        "Q2": null,
-        "S1": null,
+        "Q2": "B+",
+        "S1": "B+",
         "Q3": null,
         "Q4": null,
         "S2": null
@@ -177,8 +177,8 @@
       "credits": 0.5,
       "grades": {
         "Q1": "C+",
-        "Q2": null,
-        "S1": null,
+        "Q2": "C",
+        "S1": "C",
         "Q3": null,
         "Q4": null,
         "S2": null
@@ -285,8 +285,8 @@
       "credits": 0.5,
       "grades": {
         "Q1": "B-",
-        "Q2": null,
-        "S1": null,
+        "Q2": "B-",
+        "S1": "B-",
         "Q3": null,
         "Q4": null,
         "S2": null
@@ -519,8 +519,8 @@
       "credits": 0.5,
       "grades": {
         "Q1": "B",
-        "Q2": null,
-        "S1": null,
+        "Q2": "A-",
+        "S1": "A-",
         "Q3": null,
         "Q4": null,
         "S2": null
@@ -699,8 +699,8 @@
       "credits": 0.5,
       "grades": {
         "Q1": "B-",
-        "Q2": null,
-        "S1": null,
+        "Q2": "C+",
+        "S1": "C+",
         "Q3": null,
         "Q4": null,
         "S2": null
@@ -735,8 +735,8 @@
       "credits": 0.5,
       "grades": {
         "Q1": "B",
-        "Q2": null,
-        "S1": null,
+        "Q2": "B",
+        "S1": "B",
         "Q3": null,
         "Q4": null,
         "S2": null

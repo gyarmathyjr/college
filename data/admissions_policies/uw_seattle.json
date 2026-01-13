@@ -1,0 +1,78 @@
+{
+    "school": "University of Washington",
+    "campus": "Seattle",
+    "policy_version": "2024-UG",
+    "scope": "undergraduate",
+    "gpa_context": {
+        "minimum_considered": 3.0,
+        "typical_admit_floor": 3.6,
+        "middle_50": [
+            3.74,
+            3.98
+        ],
+        "notes": [
+            "STEM applicants tend to be at the upper end of the GPA range",
+            "Physics and engineering applicants skew higher than university-wide medians"
+        ]
+    },
+    "standardized_testing": {
+        "policy": "test_optional",
+        "sat_middle_50": [
+            1280,
+            1470
+        ],
+        "act_middle_50": [
+            28,
+            33
+        ],
+        "notes": [
+            "Strong math subscores are beneficial for STEM applicants"
+        ]
+    },
+    "academic_preparation": {
+        "math": {
+            "expected_level": "calculus",
+            "preferred": [
+                "AP Calculus BC",
+                "College-level Calculus"
+            ],
+            "notes": [
+                "Completion of calculus prior to enrollment is common among admitted STEM students"
+            ]
+        },
+        "physics": {
+            "expected_level": "high_school_physics",
+            "preferred": [
+                "AP Physics C"
+            ],
+            "notes": [
+                "Calculus-based physics strengthens preparation for physics and engineering majors"
+            ]
+        },
+        "lab_science_years": 3
+    },
+    "selectivity": {
+        "relative_competitiveness": "high",
+        "physics_program_competitiveness": "high",
+        "notes": [
+            "Admission decisions emphasize academic preparation and course rigor"
+        ]
+    },
+    "fit_bands": {
+        "below_competitive": {
+            "gpa_max": 3.59,
+            "label": "Reach"
+        },
+        "competitive": {
+            "gpa_range": [
+                3.6,
+                3.85
+            ],
+            "label": "Target"
+        },
+        "strong": {
+            "gpa_min": 3.86,
+            "label": "Strong"
+        }
+    }
+}

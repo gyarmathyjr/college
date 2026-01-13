@@ -1,0 +1,51 @@
+{
+    "school": "Seattle University",
+    "campus": "Seattle",
+    "gpa_policy_version": "2024-UG",
+    "grade_scale": {
+        "A": 4.0,
+        "A-": 3.7,
+        "B+": 3.3,
+        "B": 3.0,
+        "B-": 2.7,
+        "C+": 2.3,
+        "C": 2.0,
+        "C-": 1.7,
+        "D+": 1.3,
+        "D": 1.0,
+        "D-": 0.7,
+        "F": 0.0
+    },
+    "grade_selection": {
+        "use_columns": [
+            "grades.S1",
+            "grades.S2"
+        ],
+        "ignore_columns": [
+            "grades.Q1",
+            "grades.Q2",
+            "grades.Q3",
+            "grades.Q4"
+        ],
+        "ignore_values": [
+            "None",
+            null
+        ]
+    },
+    "credit_policy": {
+        "weight_by": "credits",
+        "credit_unit": "semester"
+    },
+    "course_inclusion": {
+        "include_all_credit_bearing_courses": true,
+        "dimension": "requirement_area",
+        "exclude_values": []
+    },
+    "calculation": {
+        "method": "weighted_mean",
+        "rounding": {
+            "precision": 2,
+            "mode": "standard"
+        }
+    }
+}
