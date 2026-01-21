@@ -1,51 +1,51 @@
 {
-  "last_updated": "2026-01-12T17:04:23.592340",
+  "last_updated": "2026-01-15T15:26:10.990931",
   "gpas": {
     "Western Washington University": {
       "campus": "Bellingham",
-      "gpa": 3.4,
+      "gpa": 3.41,
       "policy_version": "2024-UG",
       "credits_counted": 18.0,
       "semester_grades_counted": 36
     },
     "Washington State University": {
       "campus": "Pullman",
-      "gpa": 3.4,
+      "gpa": 3.41,
       "policy_version": "2024-UG",
       "credits_counted": 18.0,
       "semester_grades_counted": 36
     },
     "University of California, Davis": {
       "campus": "Davis",
-      "gpa": 3.38,
+      "gpa": 3.4,
       "policy_version": "2024-UG",
       "credits_counted": 16.0,
       "semester_grades_counted": 32
     },
     "University of Washington": {
       "campus": "Seattle",
-      "gpa": 3.4,
+      "gpa": 3.41,
       "policy_version": "2024-UG",
       "credits_counted": 18.0,
       "semester_grades_counted": 36
     },
     "California Polytechnic State University": {
       "campus": "San Luis Obispo",
-      "gpa": 3.4,
+      "gpa": 3.41,
       "policy_version": "2024-UG",
       "credits_counted": 18.0,
       "semester_grades_counted": 36
     },
     "San Diego State University": {
       "campus": "San Diego",
-      "gpa": 3.4,
+      "gpa": 3.41,
       "policy_version": "2024-UG",
       "credits_counted": 18.0,
       "semester_grades_counted": 36
     },
     "Seattle University": {
       "campus": "Seattle",
-      "gpa": 3.4,
+      "gpa": 3.41,
       "policy_version": "2024-UG",
       "credits_counted": 18.0,
       "semester_grades_counted": 36

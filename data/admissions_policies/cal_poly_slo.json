@@ -1,52 +1,43 @@
 {
-    "school": "University of Washington",
-    "campus": "Seattle",
+    "school": "California Polytechnic State University",
+    "campus": "San Luis Obispo",
     "policy_version": "2024-UG",
     "scope": "undergraduate",
     "gpa_context": {
         "minimum_considered": 3.0,
-        "competitive_lower_bound": 3.6,
+        "competitive_lower_bound": 3.4,
         "middle_50": [
-            3.74,
-            3.98
+            3.7,
+            4.0
         ],
         "notes": [
-            "STEM applicants tend to be at the upper end of the GPA range",
-            "Physics and engineering applicants skew higher than university-wide medians"
+            "Cal Poly admissions emphasize GPA and course rigor more heavily than essays",
+            "STEM majors typically fall at or above the middle of the GPA range"
         ]
     },
     "standardized_testing": {
-        "policy": "test_optional",
-        "sat_middle_50": [
-            1280,
-            1470
-        ],
-        "act_middle_50": [
-            28,
-            33
-        ],
+        "policy": "test_blind",
         "notes": [
-            "Strong math subscores are beneficial for STEM applicants"
+            "Standardized test scores are not considered in admissions decisions"
         ]
     },
     "academic_preparation": {
         "math": {
-            "expected_level": "calculus",
+            "expected_level": "precalculus_or_higher",
             "preferred": [
+                "AP Calculus AB",
                 "AP Calculus BC",
                 "College-level Calculus"
             ],
             "notes": [
-                "Completion of calculus prior to enrollment is common among admitted STEM students"
+                "Calculus preparation is strongly recommended for physics and engineering pathways"
             ]
         },
         "physics": {
             "expected_level": "high_school_physics",
             "preferred": [
+                "AP Physics 1",
                 "AP Physics C"
-            ],
-            "notes": [
-                "Calculus-based physics strengthens preparation for physics and engineering majors"
             ]
         },
         "lab_science_years": 3
@@ -55,23 +46,23 @@
         "relative_competitiveness": "high",
         "physics_program_competitiveness": "high",
         "notes": [
-            "Admission decisions emphasize academic preparation and course rigor"
+            "Admissions decisions are highly GPA-driven compared to holistic institutions"
         ]
     },
     "fit_bands": {
         "below_competitive": {
-            "gpa_max": 3.59,
+            "gpa_max": 3.39,
             "label": "Reach"
         },
         "competitive": {
             "gpa_range": [
-                3.6,
-                3.85
+                3.4,
+                3.69
             ],
             "label": "Target"
         },
         "strong": {
-            "gpa_min": 3.86,
+            "gpa_min": 3.7,
             "label": "Strong"
         }
     }
